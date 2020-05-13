@@ -1,0 +1,33 @@
+*,*:hover, *:after {
+  margin: 0;
+  padding: 0
+}
+
+.wrapper {
+  margin: 25px 35px;
+  display: flex;
+  max-width: 1040px;
+}
+.element {
+  padding: 25px 75px;
+  border: solid 1px #b3b3b3;
+  background-color: #f8f8f8;
+}
+.element h3 {
+  color:#a1a1a1;
+  font-weight: 350;
+  text-transform: uppercase;
+}
+.Home {
+  padding: 27px 77px;
+  border: 1px solid #f1f1f1;
+  border-top: 2px solid #7bf71b;
+  background-color: #fff;
+  box-shadow: 0 3px 3px rgba(0,0,0,0.5);
+}
+.Home h3 {
+  color: #7bf71b;
+}
+.icon {
+  width: 35px;
+}
